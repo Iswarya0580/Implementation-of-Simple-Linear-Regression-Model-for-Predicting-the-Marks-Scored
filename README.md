@@ -23,11 +23,10 @@ Step 8.End
 
 ## Program:
 ```
-/*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Iswarya P
 RegisterNumber:  212223230082
-*/
+
 ```
 ```
 import pandas as pd
